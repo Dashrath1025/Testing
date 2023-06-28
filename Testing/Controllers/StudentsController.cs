@@ -15,7 +15,7 @@ namespace Testing.Controllers
     [ApiController]
     public class StudentsController : Controller
     {
-        //Dswrty6h7uj8ikolp;['gvbnmhbjnmk
+       //Direct master branch
         private readonly IStydentRepository stydentRepository;
         private readonly IMapper mapper;
         private readonly IImageRepository imageRepository;
